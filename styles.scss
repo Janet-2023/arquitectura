@@ -1,0 +1,56 @@
+@import "./base/base";
+@import'./sass/layout/layout';
+@import './sass/modules/modules';
+@import './modules/modules';
+@import'./sass/theme/theme';
+
+/*body{
+    background-color: bisque;
+}
+
+.header{
+    background-color: darkkhaki;
+    color: chartreuse;
+    font-family: Arial;
+    max-width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+    
+    &__container{
+     
+        display: flex;
+        justify-content: flex-start;
+    }
+    &__nave{
+        width: 700px;
+       
+
+    }
+    &__ulist{
+        display: flex;
+        justify-content: space-between;
+    }
+    &__list{
+        width: 80px;
+        height: 25px;
+        list-style: none;
+    }
+    &__lista{
+        text-decoration: none;
+        font-style: normal;
+        color: crimson;
+
+    }
+    &--tit{
+        color: coral;
+    }
+
+    &--active{
+        color: chocolate;
+    }
+
+ 
+  
+
+
+}

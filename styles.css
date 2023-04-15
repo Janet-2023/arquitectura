@@ -1,0 +1,42 @@
+
+
+
+/*body {
+  background-color: bisque;
+}
+
+.header {
+  background-color: darkkhaki;
+  color: chartreuse;
+  font-family: Arial;
+  max-width: 900px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.header__container {
+  display: flex;
+  justify-content: flex-start;
+}
+.header__nave {
+  width: 700px;
+}
+.header__ulist {
+  display: flex;
+  justify-content: space-between;
+}
+.header__list {
+  width: 80px;
+  height: 25px;
+  list-style: none;
+}
+.header__lista {
+  text-decoration: none;
+  font-style: normal;
+  color: crimson;
+}
+.header--tit {
+  color: coral;
+}
+.header--active {
+  color: chocolate;
+}/*# sourceMappingURL=styles.css.map */
